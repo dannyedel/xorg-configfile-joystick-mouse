@@ -1,0 +1,5 @@
+xorg-configfile-joystick-mouse (0.1) UNRELEASED; urgency=low
+
+  * Initial release.
+
+ -- Danny Edel <mail@danny-edel.de>  Mon, 03 Mar 2014 15:25:53 +0100

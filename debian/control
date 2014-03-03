@@ -1,0 +1,16 @@
+Source: xorg-configfile-joystick-mouse
+Section: unknown
+Priority: extra
+Maintainer: Danny Edel <mail@danny-edel.de>
+Build-Depends: debhelper (>=8)
+
+Package: xorg-configfile-joystick-mouse
+Architecture: all
+Depends: xserver-xorg-input-joystick
+Description: Xorg configuration files to use joysticks as mouse
+ This package contains configuration files to use various
+ joysticks as mouse-replacement. Since they will always be used as
+ a mouse device, do not use this package if you need them for gaming.
+ .
+ This is mainly intended for people who are unable to operate a
+ traditional computer mouse.

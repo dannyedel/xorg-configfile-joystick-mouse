@@ -1,0 +1,5 @@
+# vim swap files
+.*.swp
+
+# debian build process results
+debian/xorg-configfile-joystick-mouse*
